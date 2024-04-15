@@ -1,4 +1,4 @@
-/* let isPhoneRequired = false
+let isPhoneRequired = false
 
 const phoneLabelSpan = document.querySelector('.phone-label-span')
 const phoneField = document.getElementById('phone')
@@ -68,4 +68,3 @@ function hideMessageAfterTimeout(element) {
     element.style.display = 'none'
   }, 3000)
 }
- */
